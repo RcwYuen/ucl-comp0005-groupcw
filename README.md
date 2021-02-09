@@ -20,4 +20,4 @@ Complete the 3 Tasks: Jarvis March Algorithm, Graham Scan Algorithm, Extended Gr
 Finish the PDF Documentation File <br>
 
 #### Work Split
-Rudy will upload the template for the Documentation before Reading Week Starts
+
