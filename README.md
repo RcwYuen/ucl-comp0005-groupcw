@@ -1,6 +1,6 @@
 ## COMP0005 Algorithms - Group Coursework Github Repo
 
-Team 5: Rudy Yuen, Jeffery Li, Benjamin Schlagman, Neil Badal
+Team 5: Rudy Yuen, Jeffrey Li, Benjamin Schlagman, Neil Badal
 <br>
 Moodle URL: https://moodle.ucl.ac.uk/course/view.php?id=20747
 <br>
