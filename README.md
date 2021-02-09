@@ -7,6 +7,4 @@ Moodle URL: https://moodle.ucl.ac.uk/course/view.php?id=20747
 
 ### Deadlines:
 
-8th February 2021 - Coursework Live in Moodle
-
-3rd March 2021 - Coursework Submission
+8th February 2021 - Coursework Live in Moodle <br> 3rd March 2021 - Coursework Submission
