@@ -9,7 +9,6 @@ Moodle Forum URL: https://moodle.ucl.ac.uk/mod/forum/view.php?id=1948085
 #### Deadlines
 8th February 2021 - Coursework Live in Moodle <br> 
 3rd March 2021 - Coursework Submission <br>
-
 To fill in: deadline for each task, and deadline for documentation.
 
 #### Progress Updates
