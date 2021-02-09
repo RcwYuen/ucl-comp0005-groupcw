@@ -12,7 +12,7 @@ Moodle Forum URL: https://moodle.ucl.ac.uk/mod/forum/view.php?id=1948085
 To fill in: deadline for each task, and deadline for documentation.
 
 #### Progress Updates
-9th February 2021: Rudy uploaded all the files onto Github. <br>
+9th February 2021: All the files are uploaded. <br>
 9th February 2021: Rudy completed the section for the time data collection for all 3 tasks.
 
 #### Pending Work
