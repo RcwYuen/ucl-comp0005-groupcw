@@ -15,10 +15,13 @@ To fill in: deadline for each task, and deadline for documentation.
 
 #### Progress Updates
 9th February 2021: All the files are uploaded. <br>
-9th February 2021: Rudy completed the section for the time data collection for all 3 tasks.
+9th February 2021: Rudy completed the section for the time data collection for all 3 tasks. <br>
+12th February 2021: Rudy completed the Graham Scan Algorithm.
 
 #### Pending Work
-Complete the 3 Tasks: Jarvis March Algorithm, Graham Scan Algorithm, Extended Graham Scan Algorithm <br>
+Complete the 3 Tasks: Jarvis March Algorithm, Extended Graham Scan Algorithm <br>
+Search for the worst case scenario for each algorithm <br>
+Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br><br>
 Finish the PDF Documentation File <br>
 
 #### Work Split
