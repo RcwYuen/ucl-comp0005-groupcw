@@ -18,6 +18,8 @@ To fill in: deadline for each task, and deadline for documentation.
 9th February 2021: Rudy completed the section for the time data collection for all 3 tasks. <br>
 12th February 2021: Rudy completed the Graham Scan Algorithm.
 
+19th February 2021: Jeffrey added mergesort algorithm for extended Graham scan.
+
 ### Issues
 - The Graham Search Algorithm will reach either RecursionError or MemoryError on the qsort algorithm, if anyone can implement any sorting that is non-recursive with complexity O(n log n) it will be appreciated.
 
