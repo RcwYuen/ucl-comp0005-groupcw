@@ -17,7 +17,7 @@ To fill in: deadline for each task, and deadline for documentation.
 09th February 2021: All the files are uploaded. <br>
 09th February 2021: Rudy completed the section for the time data collection for all 3 tasks. <br>
 12th February 2021: Rudy completed the Graham Scan Algorithm. <br>
-19th February 2021: Jeffrey added mergesort algorithm for extended Graham scan. <br>
+19th February 2021: Jeffrey added mergesort algorithm for Graham scans. <br>
 19th February 2021: Jeffrey added extended Graham scan. <br>
 21st February 2021: Ben added jarvis search. <br>
 
