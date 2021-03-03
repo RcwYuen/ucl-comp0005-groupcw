@@ -15,20 +15,15 @@ To fill in: deadline for each task, and deadline for documentation.
 
 #### Progress Updates
 09th February 2021: All the files are uploaded. <br>
-09th February 2021: Rudy completed the section for the time data collection for all 3 tasks. <br>
-12th February 2021: Rudy completed the Graham Scan Algorithm. <br>
-19th February 2021: Jeffrey added mergesort algorithm for extended Graham scan. <br>
+09th February 2021: Rudy added the section for the time data collection for all 3 tasks. <br>
+12th February 2021: Rudy added the Graham Scan Algorithm. <br>
+19th February 2021: Jeffrey added mergesort algorithm for Graham scans. <br>
 19th February 2021: Jeffrey added extended Graham scan. <br>
 21st February 2021: Ben added jarvis search. <br>
 
-### Issues
-- The Graham Search Algorithm will reach either RecursionError or MemoryError on the qsort algorithm, if anyone can implement any sorting that is non-recursive with complexity O(n log n) it will be appreciated.
+#### Issues
+
 
 #### Pending Work
-Complete the 3 Tasks: Jarvis March Algorithm, Extended Graham Scan Algorithm <br>
-Search for the worst case scenario for each algorithm <br>
-Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br><br>
+Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br>
 Finish the PDF Documentation File <br>
-
-#### Work Split
-
