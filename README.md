@@ -23,6 +23,7 @@ To fill in: deadline for each task, and deadline for documentation.
 
 ### Issues
 
-#### Pending Work
+
+### Pending Work
 Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br><br>
 Finish the PDF Documentation File <br>
