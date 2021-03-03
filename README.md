@@ -22,11 +22,8 @@ To fill in: deadline for each task, and deadline for documentation.
 21st February 2021: Ben added jarvis search. <br>
 
 ### Issues
-- The Graham Search Algorithm will reach either RecursionError or MemoryError on the qsort algorithm, if anyone can implement any sorting that is non-recursive with complexity O(n log n) it will be appreciated.
 
 #### Pending Work
-Complete the 3 Tasks: Jarvis March Algorithm, Extended Graham Scan Algorithm <br>
-Search for the worst case scenario for each algorithm <br>
 Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br><br>
 Finish the PDF Documentation File <br>
 
