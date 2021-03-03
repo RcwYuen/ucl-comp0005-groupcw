@@ -21,9 +21,9 @@ To fill in: deadline for each task, and deadline for documentation.
 19th February 2021: Jeffrey added extended Graham scan. <br>
 21st February 2021: Ben added jarvis search. <br>
 
-### Issues
+#### Issues
 
 
-### Pending Work
+#### Pending Work
 Ideas: For each section of the paper, we exploit the one which might have the highest time complexity <br><br>
 Finish the PDF Documentation File <br>
