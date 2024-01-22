@@ -2,4 +2,3 @@
 
 Team 5: Rudy Yuen, Jeffrey Li, Benjamin Schlagman, Neil Badal
 <br>
-HURRAY FUCK THIS
